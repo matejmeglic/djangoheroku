@@ -10,6 +10,7 @@ black = "*"
 [packages]
 django = "*"
 gunicorn = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.8"
